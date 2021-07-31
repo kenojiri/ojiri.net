@@ -1,6 +1,5 @@
-# kenojiri.cf
+# ojiri.net
 
 a website of static contents
 
 * served by GitHub Pages
-* proxied by CloudFlare to provide HTTPS access and efficient content delivery
